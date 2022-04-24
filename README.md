@@ -1,3 +1,3 @@
 # JSChrome
 
-NomadCoder Challange 결과물
+NomadCoder Challenge 결과물
